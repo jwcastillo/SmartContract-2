@@ -1,0 +1,7 @@
+E:\smartContract\515forTest\515forTest\bin\Debug\515forTest.dll
+E:\smartContract\515forTest\515forTest\bin\Debug\515forTest.pdb
+E:\smartContract\515forTest\515forTest\bin\Debug\Neo.SmartContract.Framework.dll
+E:\smartContract\515forTest\515forTest\obj\Debug\515forTest.csproj.CoreCompileInputs.cache
+E:\smartContract\515forTest\515forTest\obj\Debug\515forTest.csproj.CopyComplete
+E:\smartContract\515forTest\515forTest\obj\Debug\515forTest.dll
+E:\smartContract\515forTest\515forTest\obj\Debug\515forTest.pdb
